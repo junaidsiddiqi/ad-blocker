@@ -1,4 +1,4 @@
-# 🕳️ Network-Wide DNS Ad Blocker — Pi-hole on Linux Mint
+# Network-Wide DNS Ad Blocker — Pi-hole on Linux Mint
 
 A network-wide DNS filtering system deployed on a repurposed PC running Linux Mint. By configuring Pi-hole as the DNS server for my entire home network, every device — phones, laptops, smart TVs, gaming consoles — has its DNS traffic filtered automatically without installing anything on the devices themselves.
 
