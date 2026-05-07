@@ -45,7 +45,7 @@ Device on Network (phone, laptop, TV, etc.)
         │
         │ DNS query — "what is ads.example.com?"
         ▼
-Pi-hole (Linux Mint PC — Static IP: 192.168.4.147)
+Pi-hole (Linux Mint PC — Static IP)
         │
         ├── Domain on blocklist? → BLOCKED (returns nothing)
         │
